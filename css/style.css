@@ -286,6 +286,16 @@
    font-size:13px;
    margin-top: 30px;
  }
+ .last-call {
+    padding:4em 0;
+   text-align: center;
+ }
+ .last-call h2{
+   margin-bottom: 25px;
+ }
+ .last-call p{
+   margin-top: 20px;
+ }
 
   /* FOOTER */
  footer {
